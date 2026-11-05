@@ -1,0 +1,20 @@
+[
+  {
+    "id": 2,
+    "nome": "Papelaria Central Ltda",
+    "email": "vendas@papelariacentral.com.br",
+    "telefone": "(11) 3333-2000"
+  },
+  {
+    "id": 3,
+    "nome": "Tech Peças Atacado",
+    "email": "atendimento@techpecas.com.br",
+    "telefone": "(19) 3222-3000"
+  },
+  {
+    "id": 4,
+    "nome": "Posto de gasolina",
+    "email": "postodegasolina@posto.com",
+    "telefone": "5552545855"
+  }
+]
